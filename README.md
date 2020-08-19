@@ -1,5 +1,3 @@
-# Курс "Инструменты разработки"
+# Exam tickets for Algorithm and Data Structures Course
 
-- Нижегородский Государственный Университет им. Н.И. Лобачевского
-- Институт ИТММ, каф. МОСТ
-- **License:** Creative Commons Attribution-Share Alike 3.0
+- Based on materials written by Kirill Korniakov
